@@ -1,6 +1,0 @@
-Added Component: Designator=1(3.3v reg)
-Added Component: Designator=C1(2.2uF TAN CAP)
-Added Component: Designator=C2(0603 CAP)
-Added Member To Class: ClassName=WeatherStation Member=Component 1 3.3v reg
-Added Member To Class: ClassName=WeatherStation Member=Component C1 2.2uF TAN CAP
-Added Member To Class: ClassName=WeatherStation Member=Component C2 0603 CAP
