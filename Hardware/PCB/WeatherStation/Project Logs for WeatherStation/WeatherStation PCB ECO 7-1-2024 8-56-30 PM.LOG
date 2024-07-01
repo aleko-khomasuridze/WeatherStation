@@ -1,0 +1,12 @@
+Added Component: Designator=C23(0603 CAP)
+Added Component: Designator=R26(0603 RES)
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=3.3V Pin=C23-2
+Added Pin To Net: NetName=3.3V Pin=R26-2
+Added Pin To Net: NetName=3.3V Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=DHT11_PIN Pin=R26-1
+Added Pin To Net: NetName=DHT11_PIN Pin=S1-2
+Added Net: Name=DHT11_PIN
+Added Member To Class: ClassName=WeatherStation Member=Component C23 100nf
+Added Member To Class: ClassName=WeatherStation Member=Component R26 0603 RES
