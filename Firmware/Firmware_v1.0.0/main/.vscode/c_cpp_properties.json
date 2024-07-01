@@ -19,7 +19,7 @@
             ],
             "intelliSenseMode": "gcc-x64",
             "includePath": [
-                "C:\\Users\\aleko\\OneDrive\\Desktop\\WeatherStation\\Firmware\\Firmware_v1.0.0\\main",
+                "C:\\Users\\aleko\\OneDrive\\Documents\\GitHub\\WeatherStation\\Firmware\\Firmware_v1.0.0\\main",
                 "C:\\Users\\aleko\\AppData\\Local\\Arduino15\\packages\\STMicroelectronics\\hardware\\stm32\\2.7.1\\cores\\arduino\\avr",
                 "C:\\Users\\aleko\\AppData\\Local\\Arduino15\\packages\\STMicroelectronics\\hardware\\stm32\\2.7.1\\cores\\arduino\\stm32",
                 "C:\\Users\\aleko\\AppData\\Local\\Arduino15\\packages\\STMicroelectronics\\hardware\\stm32\\2.7.1\\cores\\arduino\\stm32\\LL",
