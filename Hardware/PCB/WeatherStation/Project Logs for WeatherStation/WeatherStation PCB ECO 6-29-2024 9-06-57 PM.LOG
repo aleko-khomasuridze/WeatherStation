@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=1 NewDesignator=REG
+Change Component Designator: OldDesignator=J1 NewDesignator=USB
+Change Component Designator: OldDesignator=J2 NewDesignator=ETH
+Change Component Designator: OldDesignator=J3 NewDesignator=9V
+Change Component Designator: OldDesignator=U1 NewDesignator=STM
+Change Component Designator: OldDesignator=U2 NewDesignator=UTTL
+Change Component Designator: OldDesignator=U3 NewDesignator=ESD
+Change Component Designator: OldDesignator=U4 NewDesignator=W5500
+Added Component: Designator=C3(0603 CAP)
+Added Component: Designator=C4(0603 CAP)
+Added Component: Designator=C5(0603 CAP)
+Added Pin To Net: NetName=3.3V Pin=C3-2
+Added Pin To Net: NetName=3.3V Pin=C4-2
+Added Pin To Net: NetName=3.3V Pin=C5-2
+Added Pin To Net: NetName=3.3V Pin=STM-24
+Added Pin To Net: NetName=3.3V Pin=STM-36
+Added Pin To Net: NetName=3.3V Pin=STM-48
+Added Net: Name=3.3V
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=STM-23
+Added Pin To Net: NetName=GND Pin=STM-35
+Added Pin To Net: NetName=GND Pin=STM-47
+Added Net: Name=GND
+Added Member To Class: ClassName=WeatherStation Member=Component C3 100nf
+Added Member To Class: ClassName=WeatherStation Member=Component C4 100nf
+Added Member To Class: ClassName=WeatherStation Member=Component C5 100nf

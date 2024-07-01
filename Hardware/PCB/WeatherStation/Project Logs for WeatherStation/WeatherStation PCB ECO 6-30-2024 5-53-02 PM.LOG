@@ -1,0 +1,182 @@
+Added Component: Designator=C6(0603 CAP)
+Added Component: Designator=C7(0603 CAP)
+Added Component: Designator=C8(0603 CAP)
+Added Component: Designator=C9(0603 CAP)
+Added Component: Designator=J1(SOT23-6L)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USBLC6-4SC6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USBLC6-4SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USBLC6-4SC6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(SOT23-6L)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USBLC6-4SC6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USBLC6-4SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USBLC6-4SC6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603 RES)
+Added Component: Designator=R2(0603 RES)
+Added Component: Designator=R3(0603 RES)
+Added Component: Designator=R4(0603 RES)
+Added Component: Designator=R5(0603 RES)
+Added Component: Designator=R6(0603 RES)
+Added Component: Designator=R7(0603 RES)
+Added Component: Designator=R8(0603 RES)
+Added Component: Designator=R9(0603 RES)
+Added Component: Designator=R10(0603 RES)
+Added Component: Designator=R11(0603 RES)
+Added Component: Designator=R12(0603 RES)
+Added Component: Designator=R13(0603 RES)
+Added Component: Designator=R14(0603 RES)
+Added Component: Designator=R15(0603 RES)
+Added Component: Designator=R16(0603 RES)
+Added Component: Designator=R17(0603 RES)
+Added Component: Designator=Y1(XTAL_7M25090002)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7M25090002/TXC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7M25090002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 TXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7M25090002/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7M25090002/TXC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3.3V Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=3.3V Pin=R9-2
+Added Pin To Net: NetName=3.3V Pin=R10-2
+Added Pin To Net: NetName=GND Pin=W5500-3
+Added Pin To Net: NetName=3.3V Pin=W5500-4
+Added Pin To Net: NetName=3.3V Pin=W5500-8
+Added Pin To Net: NetName=GND Pin=W5500-9
+Added Pin To Net: NetName=3.3V Pin=W5500-11
+Added Pin To Net: NetName=GND Pin=W5500-14
+Added Pin To Net: NetName=3.3V Pin=W5500-15
+Added Pin To Net: NetName=GND Pin=W5500-16
+Added Pin To Net: NetName=3.3V Pin=W5500-17
+Added Pin To Net: NetName=GND Pin=W5500-19
+Added Pin To Net: NetName=3.3V Pin=W5500-21
+Added Pin To Net: NetName=3.3V Pin=W5500-28
+Added Pin To Net: NetName=GND Pin=W5500-29
+Added Pin To Net: NetName=GND Pin=W5500-48
+Added Pin To Net: NetName=3.3Va Pin=R1-2
+Added Pin To Net: NetName=3.3Va Pin=R3-2
+Added Net: Name=3.3Va
+Added Pin To Net: NetName=ACTLED Pin=W5500-27
+Added Net: Name=ACTLED
+Added Pin To Net: NetName=LINKLED Pin=W5500-25
+Added Net: Name=LINKLED
+Added Pin To Net: NetName=MISO Pin=W5500-34
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=W5500-35
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R14-1
+Added Pin To Net: NetName=NetC7_2 Pin=W5500-30
+Added Pin To Net: NetName=NetC7_2 Pin=Y1-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R14-2
+Added Pin To Net: NetName=NetC8_2 Pin=W5500-31
+Added Pin To Net: NetName=NetC8_2 Pin=Y1-3
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=ETH-5
+Added Pin To Net: NetName=NetC9_2 Pin=R16-1
+Added Pin To Net: NetName=NetC9_2 Pin=R17-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=R12-1
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_6 Pin=R11-1
+Added Net: Name=NetJ1_6
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=R15-1
+Added Pin To Net: NetName=NetJ2_4 Pin=R16-2
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Pin To Net: NetName=NetJ2_6 Pin=R13-1
+Added Pin To Net: NetName=NetJ2_6 Pin=R17-2
+Added Net: Name=NetJ2_6
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=W5500-45
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=W5500-44
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=W5500-43
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=W5500-42
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=W5500-41
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=W5500-40
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=W5500-39
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=W5500-38
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=W5500-37
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=W5500-1
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=W5500-2
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=W5500-5
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=W5500-6
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=SCLK Pin=W5500-33
+Added Net: Name=SCLK
+Added Pin To Net: NetName=W5500_CS Pin=W5500-32
+Added Net: Name=W5500_CS
+Added Pin To Net: NetName=W5500_INT Pin=R10-1
+Added Pin To Net: NetName=W5500_INT Pin=W5500-36
+Added Net: Name=W5500_INT
+Added Member To Class: ClassName=WeatherStation Member=Component C6 0603 CAP
+Added Member To Class: ClassName=WeatherStation Member=Component C7 15pf
+Added Member To Class: ClassName=WeatherStation Member=Component C8 15pf
+Added Member To Class: ClassName=WeatherStation Member=Component C9 10nf
+Added Member To Class: ClassName=WeatherStation Member=Component J1 USBLC6-4SC6
+Added Member To Class: ClassName=WeatherStation Member=Component J2 USBLC6-4SC6
+Added Member To Class: ClassName=WeatherStation Member=Component R1 10k
+Added Member To Class: ClassName=WeatherStation Member=Component R2 10k
+Added Member To Class: ClassName=WeatherStation Member=Component R3 10k
+Added Member To Class: ClassName=WeatherStation Member=Component R4 10k
+Added Member To Class: ClassName=WeatherStation Member=Component R5 10k
+Added Member To Class: ClassName=WeatherStation Member=Component R6 10k
+Added Member To Class: ClassName=WeatherStation Member=Component R7 10k
+Added Member To Class: ClassName=WeatherStation Member=Component R8 10k
+Added Member To Class: ClassName=WeatherStation Member=Component R9 10k
+Added Member To Class: ClassName=WeatherStation Member=Component R10 0603 RES
+Added Member To Class: ClassName=WeatherStation Member=Component R11 0603 RES
+Added Member To Class: ClassName=WeatherStation Member=Component R12 0603 RES
+Added Member To Class: ClassName=WeatherStation Member=Component R13 0603 RES
+Added Member To Class: ClassName=WeatherStation Member=Component R14 1M
+Added Member To Class: ClassName=WeatherStation Member=Component R15 0603 RES
+Added Member To Class: ClassName=WeatherStation Member=Component R16 47R
+Added Member To Class: ClassName=WeatherStation Member=Component R17 47R
+Added Member To Class: ClassName=WeatherStation Member=Component Y1 7M25090002
+Added Room: Name=WeatherStation

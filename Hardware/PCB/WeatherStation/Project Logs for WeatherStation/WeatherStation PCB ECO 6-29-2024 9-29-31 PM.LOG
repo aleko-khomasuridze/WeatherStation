@@ -1,0 +1,2 @@
+Added Component: Designator=S1(DHT11)
+Added Member To Class: ClassName=WeatherStation Member=Component S1 DHT11
