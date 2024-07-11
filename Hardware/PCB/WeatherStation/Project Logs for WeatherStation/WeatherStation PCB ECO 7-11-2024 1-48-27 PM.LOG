@@ -1,0 +1,56 @@
+Added Component: Designator=C24(0603 CAP)
+Added Component: Designator=R27(0603 RES)
+Added Component: Designator=R28(0603 RES)
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=ESD-2
+Added Pin To Net: NetName=GND Pin=ESD-5
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=GND Pin=USB-A1
+Added Pin To Net: NetName=GND Pin=USB-A12
+Added Pin To Net: NetName=GND Pin=USB-B1
+Added Pin To Net: NetName=GND Pin=USB-B12
+Added Pin To Net: NetName=GND Pin=USB-S1
+Added Pin To Net: NetName=GND Pin=USB-S2
+Added Pin To Net: NetName=GND Pin=USB-S3
+Added Pin To Net: NetName=GND Pin=USB-S4
+Added Pin To Net: NetName=GND Pin=UTTL-3
+Added Pin To Net: NetName=GND Pin=UTTL-29
+Added Pin To Net: NetName=D+ Pin=ESD-3
+Added Pin To Net: NetName=D+ Pin=ESD-6
+Added Pin To Net: NetName=D+ Pin=USB-A6
+Added Pin To Net: NetName=D+ Pin=USB-B6
+Added Pin To Net: NetName=D+ Pin=UTTL-4
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=ESD-1
+Added Pin To Net: NetName=D- Pin=ESD-4
+Added Pin To Net: NetName=D- Pin=USB-A7
+Added Pin To Net: NetName=D- Pin=USB-B7
+Added Pin To Net: NetName=D- Pin=UTTL-5
+Added Net: Name=D-
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=UTTL-6
+Added Net: Name=NetC24_2
+Added Pin To Net: NetName=NetLabel50 Pin=STM-31
+Added Net: Name=NetLabel50
+Added Pin To Net: NetName=NetLabel51 Pin=STM-30
+Added Net: Name=NetLabel51
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_1 Pin=USB-A5
+Added Net: Name=NetR27_1
+Added Pin To Net: NetName=NetR28_2 Pin=R28-2
+Added Pin To Net: NetName=NetR28_2 Pin=USB-B5
+Added Net: Name=NetR28_2
+Added Pin To Net: NetName=RX Pin=UTTL-25
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=UTTL-26
+Added Net: Name=TX
+Added Pin To Net: NetName=VBUS Pin=USB-A4
+Added Pin To Net: NetName=VBUS Pin=USB-A9
+Added Pin To Net: NetName=VBUS Pin=USB-B4
+Added Pin To Net: NetName=VBUS Pin=USB-B9
+Added Pin To Net: NetName=VBUS Pin=UTTL-8
+Added Net: Name=VBUS
+Added Member To Class: ClassName=WeatherStation Member=Component C24 100nf
+Added Member To Class: ClassName=WeatherStation Member=Component R27 0603 RES
+Added Member To Class: ClassName=WeatherStation Member=Component R28 0603 RES
