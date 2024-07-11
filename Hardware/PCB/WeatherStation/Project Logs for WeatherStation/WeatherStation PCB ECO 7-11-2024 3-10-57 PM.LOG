@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=GND Pin=USB-A1
+Removed Pin From Net: NetName=VBUS Pin=USB-A4
+Removed Pin From Net: NetName=D+ Pin=USB-A6
+Removed Pin From Net: NetName=D- Pin=USB-A7
+Removed Pin From Net: NetName=VBUS Pin=USB-A9
+Removed Pin From Net: NetName=GND Pin=USB-A12
+Removed Pin From Net: NetName=GND Pin=USB-B1
+Removed Pin From Net: NetName=VBUS Pin=USB-B4
+Removed Pin From Net: NetName=D+ Pin=USB-B6
+Removed Pin From Net: NetName=D- Pin=USB-B7
+Removed Pin From Net: NetName=VBUS Pin=USB-B9
+Removed Pin From Net: NetName=GND Pin=USB-B12
+Removed Pin From Net: NetName=GND Pin=USB-S1
+Removed Pin From Net: NetName=GND Pin=USB-S2
+Removed Pin From Net: NetName=GND Pin=USB-S3
+Removed Pin From Net: NetName=GND Pin=USB-S4
+Removed Member From Class: ClassName=WeatherStation Member=USB
+Added Component: Designator=J3(VALCON_CSP-USC16-TR)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CSP-USC16-TR/Valcon/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Valcon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CSP-USC16-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CSP-USC16-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CSP-USC16-TR/Valcon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-A1
+Added Pin To Net: NetName=VBUS Pin=J3-A4
+Added Pin To Net: NetName=D+ Pin=J3-A6
+Added Pin To Net: NetName=D- Pin=J3-A7
+Added Pin To Net: NetName=VBUS Pin=J3-A9
+Added Pin To Net: NetName=GND Pin=J3-A12
+Added Pin To Net: NetName=GND Pin=J3-B1
+Added Pin To Net: NetName=VBUS Pin=J3-B4
+Added Pin To Net: NetName=D+ Pin=J3-B6
+Added Pin To Net: NetName=D- Pin=J3-B7
+Added Pin To Net: NetName=VBUS Pin=J3-B9
+Added Pin To Net: NetName=GND Pin=J3-B12
+Added Pin To Net: NetName=GND Pin=J3-S1
+Added Pin To Net: NetName=GND Pin=J3-S2
+Added Pin To Net: NetName=GND Pin=J3-S3
+Added Pin To Net: NetName=GND Pin=J3-S4
+Added Pin To Net: NetName=NetJ3_A5 Pin=J3-A5
+Added Pin To Net: NetName=NetJ3_A5 Pin=R27-1
+Added Net: Name=NetJ3_A5
+Added Pin To Net: NetName=NetJ3_B5 Pin=J3-B5
+Added Pin To Net: NetName=NetJ3_B5 Pin=R28-2
+Added Net: Name=NetJ3_B5
+Added Member To Class: ClassName=WeatherStation Member=Component J3 CSP-USC16-TR
+Added Room: Name=WeatherStation

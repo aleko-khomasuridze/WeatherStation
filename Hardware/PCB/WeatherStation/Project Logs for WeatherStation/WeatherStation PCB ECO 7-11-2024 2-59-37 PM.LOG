@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=D- Pin=ESD-1
+Removed Pin From Net: NetName=D+ Pin=ESD-3
+Added Pin To Net: NetName=D+ Pin=ESD-1
+Added Pin To Net: NetName=D- Pin=ESD-3
