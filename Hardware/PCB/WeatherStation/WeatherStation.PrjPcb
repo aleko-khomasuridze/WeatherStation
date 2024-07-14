@@ -190,7 +190,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Canon MF210
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -204,6 +204,24 @@ OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration1_Name2=OutputConfigurationParameter2
+Configuration1_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration1_Name3=OutputConfigurationParameter3
+Configuration1_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name4=OutputConfigurationParameter4
+Configuration1_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name5=OutputConfigurationParameter5
+Configuration1_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name6=OutputConfigurationParameter6
+Configuration1_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name7=OutputConfigurationParameter7
+Configuration1_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name8=OutputConfigurationParameter8
+Configuration1_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name9=OutputConfigurationParameter9
+Configuration1_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 OutputType2=PCB 3D Print
 OutputName2=PCB 3D Print
 OutputDocumentPath2=
@@ -1071,6 +1089,66 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=3.3V|NetColor=$006E6EFF
+Net2=NetName=3.3Va|NetColor=$006E6EFF
+Net3=NetName=9v|NetColor=$006E6EFF
+Net4=NetName=ACTLED|NetColor=$0001F1FD
+Net5=NetName=BOOT0|NetColor=$0001F1FD
+Net6=NetName=D-|NetColor=$006EFF6E
+Net7=NetName=D+|NetColor=$006EFF6E
+Net8=NetName=DHT11_PIN|NetColor=$006EFF6E
+Net9=NetName=DM|NetColor=$006EFF6E
+Net10=NetName=DP|NetColor=$006EFF6E
+Net11=NetName=GND|NetColor=$00FF6E6E
+Net12=NetName=LINKLED|NetColor=$0001F1FD
+Net13=NetName=MISO|NetColor=$006EFF6E
+Net14=NetName=MOSI|NetColor=$006EFF6E
+Net15=NetName=NetBT0_1|NetColor=$0001F1FD
+Net16=NetName=NetC15_2|NetColor=$006EFF6E
+Net17=NetName=NetC18_1|NetColor=$006EFF6E
+Net18=NetName=NetC19_1|NetColor=$006EFF6E
+Net19=NetName=NetC21_2|NetColor=$0001F1FD
+Net20=NetName=NetC22_2|NetColor=$0001F1FD
+Net21=NetName=NetC24_2|NetColor=$0001F1FD
+Net22=NetName=NetC25_2|NetColor=$0001F1FD
+Net23=NetName=NetC27_2|NetColor=$0001F1FD
+Net24=NetName=NetC7_2|NetColor=$0001F1FD
+Net25=NetName=NetC8_2|NetColor=$0001F1FD
+Net26=NetName=NetC9_2|NetColor=$006EFF6E
+Net27=NetName=NetETH_1|NetColor=$006EFF6E
+Net28=NetName=NetETH_10|NetColor=$0001F1FD
+Net29=NetName=NetETH_11|NetColor=$0001F1FD
+Net30=NetName=NetETH_2|NetColor=$006EFF6E
+Net31=NetName=NetJ1_4|NetColor=$006EFF6E
+Net32=NetName=NetJ1_6|NetColor=$006EFF6E
+Net33=NetName=NetJ2_4|NetColor=$006EFF6E
+Net34=NetName=NetJ2_6|NetColor=$006EFF6E
+Net35=NetName=NetR1_1|NetColor=$0001F1FD
+Net36=NetName=NetR11_2|NetColor=$006EFF6E
+Net37=NetName=NetR12_2|NetColor=$006EFF6E
+Net38=NetName=NetR13_2|NetColor=$006EFF6E
+Net39=NetName=NetR15_2|NetColor=$006EFF6E
+Net40=NetName=NetR2_1|NetColor=$0001F1FD
+Net41=NetName=NetR23_2|NetColor=$0001F1FD
+Net42=NetName=NetR25_2|NetColor=$0001F1FD
+Net43=NetName=NetR3_1|NetColor=$0001F1FD
+Net44=NetName=NetR4_1|NetColor=$0001F1FD
+Net45=NetName=NetR5_1|NetColor=$0001F1FD
+Net46=NetName=NetR6_1|NetColor=$0001F1FD
+Net47=NetName=NetR7_1|NetColor=$0001F1FD
+Net48=NetName=NetR8_1|NetColor=$0001F1FD
+Net49=NetName=NetR9_1|NetColor=$0001F1FD
+Net50=NetName=NRST|NetColor=$0001F1FD
+Net51=NetName=RX|NetColor=$006EFF6E
+Net52=NetName=SCK|NetColor=$006EFF6E
+Net53=NetName=SWCLK|NetColor=$0001F1FD
+Net54=NetName=SWDIO|NetColor=$0001F1FD
+Net55=NetName=TX|NetColor=$006EFF6E
+Net56=NetName=VBUS|NetColor=$006E6EFF
+Net57=NetName=W5500_CS|NetColor=$006EFF6E
+Net58=NetName=W5500_INT|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
