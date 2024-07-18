@@ -21,7 +21,7 @@ float WeatherStation::GetHumidity() {
 String WeatherStation::ToString() {
     String stringObj = "{";
     stringObj += "\"temp\": " + String(this->GetTemperature()) + ", ";
-    stringObj += "\"hum\": " + String(this->GetHumidity()) + ", ";
+    stringObj += "\"hum\": " + String(this->GetHumidity());
     stringObj += "}";
     return stringObj;
 }

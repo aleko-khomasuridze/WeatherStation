@@ -16,7 +16,7 @@ public:
     /**
      * @brief Constructor for View class. Initializes the Ethernet server on port 80.
      */
-    View() : server(EthernetServer(80)) {}
+    View() : server(EthernetServer(8080)) {}
 
     /**
      * @brief Initializes the Ethernet server and starts listening for client connections.

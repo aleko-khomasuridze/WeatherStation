@@ -5,10 +5,10 @@
 // MAC address for the Ethernet shield
 byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
 // IP address for the Ethernet shield
-IPAddress ip(192, 168, 1, 177);
+IPAddress ip(192, 168, 1, 2);
 
 // Create an instance of WeatherStationController with pin D2
-WeatherStationController weatherStationController = WeatherStationController(D2);
+WeatherStationController weatherStationController = WeatherStationController(PC13);
 
 /**
  * @brief Setup function initializes the serial communication, Ethernet connection,
