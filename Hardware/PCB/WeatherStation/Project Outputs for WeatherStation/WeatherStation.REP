@@ -2,188 +2,126 @@
 FileName = WeatherStation.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : WeatherStation_Copper_Signal_Top.gbr
+Generating : Mechanical 15
+      File : WeatherStation.GM15
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Mechanical 15
 
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 1
 
+    Adding Layer      : Mechanical 13
 
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : WeatherStation_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D30
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : WeatherStation_Pads_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : WeatherStation_Pads_Top.gbr
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
     D10
     D11
     D12
-    D13
     D14
-    D15
     D16
     D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : WeatherStation.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : WeatherStation.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : WeatherStation.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D16
+    D17
 *************************************************************
 
 *************************************************************
 Generating : Bottom Overlay
-      File : WeatherStation_Legend_Bot.gbr
+      File : WeatherStation.GBO
 
     Adding Layer      : Bottom Overlay
 
+    Adding Layer      : Mechanical 1
 
-Used DCodes :
-*************************************************************
+    Adding Layer      : Mechanical 13
 
-*************************************************************
-Generating : Bottom Solder
-      File : WeatherStation_Soldermask_Bot.gbr
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
+    D10
+    D11
+    D12
+    D14
+    D16
+    D17
 *************************************************************
 
 *************************************************************
 Generating : Bottom Paste
-      File : WeatherStation_Paste_Bot.gbr
+      File : WeatherStation.GBP
 
     Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
 
     Adding Layer      : Bottom Layer
 
@@ -191,29 +129,64 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D16
+    D17
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : WeatherStation_Legend_Top.gbr
+Generating : Bottom Solder
+      File : WeatherStation.GBS
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D31
+    D10
+    D11
+    D12
+    D14
+    D16
+    D17
+    D56
+    D57
     D58
     D59
     D60
     D61
     D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : WeatherStation_Paste_Top.gbr
+Generating : Top Solder
+      File : WeatherStation.GTS
 
-    Adding Layer      : Top Paste
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
 
     Adding Layer      : Top Layer
 
@@ -224,37 +197,17 @@ Used DCodes :
     D10
     D11
     D12
-    D13
     D14
-    D15
     D16
     D17
-    D18
-    D19
-    D20
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D63
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : WeatherStation_Soldermask_Top.gbr
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
     D45
     D46
     D47
@@ -268,11 +221,256 @@ Used DCodes :
     D55
     D56
     D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
     D64
     D65
     D66
     D67
     D68
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : WeatherStation.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : WeatherStation.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : WeatherStation.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D32
+    D33
+    D34
+    D35
+    D36
+    D69
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : WeatherStation.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D16
+    D17
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : WeatherStation.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D16
+    D17
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : WeatherStation.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D32
+    D33
+    D34
+    D35
+    D36
     D69
     D70
     D71
@@ -288,61 +486,60 @@ Used DCodes :
     D81
     D82
     D83
+    D84
+    D85
+    D86
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : WeatherStation_Keep-out.gbr
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : WeatherStation_Mechanical_13.gbr
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D31
-    D58
-    D59
-    D61
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : WeatherStation_Mechanical_1.gbr
+Generating : Drill Drawing
+      File : WeatherStation.GD1
 
     Adding Layer      : Mechanical 1
 
-
-Used DCodes :
-    D59
-    D84
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : WeatherStation_Mechanical_15.gbr
+    Adding Layer      : Mechanical 13
 
     Adding Layer      : Mechanical 15
 
+    Adding Drill Pair : Top Layer-Bottom Layer
 
-Used DCodes :
-    D85
-*************************************************************
-
-*************************************************************
-Generating : Profile
-      File : WeatherStation_Profile.gbr
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
-    D86
+    D10
+    D11
+    D12
+    D14
+    D16
+    D17
+    D87
+    D88
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : WeatherStation.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D16
+    D17
+    D87
 *************************************************************
 
