@@ -1,28 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [WeatherStation.PrjPcb]
-   Generated File[WeatherStation.GTO]
-   Generated File[WeatherStation.GTP]
-   Generated File[WeatherStation.GTS]
-   Generated File[WeatherStation.GTL]
-   Generated File[WeatherStation.GBL]
-   Generated File[WeatherStation.GBS]
-   Generated File[WeatherStation.GBP]
-   Generated File[WeatherStation.GBO]
-   Generated File[WeatherStation.GM1]
-   Generated File[WeatherStation.GM13]
-   Generated File[WeatherStation.GM15]
-   Generated File[WeatherStation.GKO]
-   Generated File[WeatherStation.GPT]
-   Generated File[WeatherStation.GPB]
-   Generated File[WeatherStation.GD1]
-   Generated File[WeatherStation.GG1]
-   Generated File[WeatherStation.RUL]
-   Generated File[WeatherStation.EXTREP]
-   Generated File[WeatherStation.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [WeatherStation.PrjPcb]
+   Generated File[WeatherStation-RoundHoles.TXT]
+   Generated File[WeatherStation-SlotHoles.TXT]
+   Generated File[WeatherStation.LDP]
+   Generated File[WeatherStation.DRR]
 
 
-Files Generated   : 19
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 7:56:41 AM On 9/3/2024
+Finished Output Generation At 9:51:28 PM On 9/5/2024

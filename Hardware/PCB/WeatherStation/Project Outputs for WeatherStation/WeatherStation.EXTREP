@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: WeatherStation.GBR   9/3/2024  7:56:41 AM
+Gerber File Extension Report For: WeatherStation.GBR   9/5/2024  9:51:08 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -20,6 +20,8 @@ Layer Extension     Layer Description
 .GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
+.GML                Multi-Layer                             
+.1                  Dielectric 1                            
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
 ------------------------------------------------------------------------------------------
