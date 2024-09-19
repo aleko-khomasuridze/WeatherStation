@@ -1,6 +1,6 @@
 {
     "port": "COM3",
-    "configuration": "pnum=GENERIC_F103C8TX,upload_method=swdMethod,xserial=generic,usb=none,xusb=FS,opt=osstd,dbg=none,rtlib=nano",
+    "configuration": "pnum=GENERIC_F103C8TX,upload_method=serialMethod,xserial=generic,usb=none,xusb=FS,opt=osstd,dbg=none,rtlib=nano",
     "board": "STMicroelectronics:stm32:GenF1",
     "sketch": "main.ino"
 }
