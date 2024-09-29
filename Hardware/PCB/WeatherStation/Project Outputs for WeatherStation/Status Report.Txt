@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [WeatherStation.PrjPcb]
+   Generated File[WeatherStation-RoundHoles.TXT]
+   Generated File[WeatherStation-SlotHoles.TXT]
+   Generated File[WeatherStation.LDP]
+   Generated File[WeatherStation.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 8:30:31 PM On 9/29/2024
